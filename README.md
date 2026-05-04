@@ -1,6 +1,8 @@
 ## 👋🏽 Hi! Welcome to my profile!
 - 📖 Currently an IT Infrastructure student at the University of Minnesota
-- 🧑🏽‍💻 Interested in doing cybersecurity or computer networking as a career
+- 🧑🏽‍💻 Interested in networking and cloud infrastructure
+- ⚙️ Pursuing opportunities in help desk, network administration, and systems administration!
+- 📚 Always looking for opportunities to expand my knowledge in IT
 <!--
 **anthonypham004/anthonypham004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
